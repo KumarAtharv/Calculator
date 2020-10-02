@@ -1,0 +1,20 @@
+D:\programare\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\programare\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\programare\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\programare\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\programare\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\programare\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\programare\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+D:\programare\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\programare\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\programare\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Code Atharv\Downloads\Calculator-master - unziped\Calculator-master\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Code Atharv\Downloads\Calculator-master - unziped\Calculator-master\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Code Atharv\Downloads\Calculator-master - unziped\Calculator-master\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Code Atharv\Downloads\Calculator-master - unziped\Calculator-master\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Code Atharv\Downloads\Calculator-master - unziped\Calculator-master\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Code Atharv\Downloads\Calculator-master - unziped\Calculator-master\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Code Atharv\Downloads\Calculator-master - unziped\Calculator-master\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Code Atharv\Downloads\Calculator-master - unziped\Calculator-master\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Code Atharv\Downloads\Calculator-master - unziped\Calculator-master\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Code Atharv\Downloads\Calculator-master - unziped\Calculator-master\Calculator\Calculator\obj\Debug\Calculator.pdb
